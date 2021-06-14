@@ -1,0 +1,506 @@
+body,html{
+	margin:0;
+	padding:0;
+	height:100%;
+	width:100%;
+}
+
+
+nav{
+	position:static;
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+	width:100%;
+	height:100px;
+	background-color:rgba(0, 0, 0, 0.1);
+}
+
+#logo{
+	height:100px;
+	width:150px;
+}
+ul{
+	list-style:none;
+	display:flex;
+	text-align:center;
+	align-items:center;
+}
+
+li{
+ 	padding:5px;
+}
+
+header a{
+	text-decoration:none;
+	text-transform:uppercase;
+	color:#FFF;
+	font-family:calibri;
+	font-size:1em;
+}
+a:hover{
+	color: #87e8a4;
+}
+.entrar{
+	margin-left: 100px;
+
+}
+.caixa1,.caixa2,.caixa3,.caixa4{
+	position:relative;
+	height:100%;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:top;
+	background-attachment:fixed;
+	
+}
+
+.caixa1{
+	background-image:url(imagem04.jpeg);
+	display:flex;
+	flex-direction:column;
+}
+
+.caixa2{
+	background-image:url(imagem03.jpeg);
+
+}
+
+.caixa3{
+	background-image:url(imagem01.jpg);
+}
+.caixa4{
+	background-image:url(imagem4.jpg);
+}
+
+.conteudo1, .conteudo3{
+	display:flex;
+	justify-content:center;
+	padding:20px;
+}
+
+.contato{
+	margin:10px;
+	flex-direction:column;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+
+}
+
+.contato1{
+	flex-direction:column;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.icone{
+	display:flex;
+	margin:10px;
+	padding:10px;
+
+}
+div.icone a{
+	margin:10px;
+}
+div.conteudo1 h1 {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	text-transform:uppercase;
+	color:#20BA6F;
+
+}
+div.conteudo1 p {
+	text-align:center;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+.conteudo2 {
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	padding:20px;
+}
+.Card1, .Card2, .Card3 {
+	padding:5px;
+	margin: 16px;
+	width:300px;
+	height:400px;
+	background-color:#87e8a4;
+	border-radius:20px;
+	box-shadow:1px 5px 3px rgba(0, 0, 0, 0.3);
+	transition: 0.5s ease;
+	cursor:pointer;
+	text-align: center;
+}
+
+.Card1:hover, .Card2:hover, .Card3:hover {
+
+transform:scale(1.1);
+
+}
+
+div.Card1 p {
+	font-weight:bold;
+	margin:0 auto;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	text-transform:uppercase;
+	text-align:center;
+	font-family: calibri;
+	color:green;
+	background-color:white;
+	width:100px;
+	height:100px;
+	border-radius:50px;
+	box-shadow:2px 5px rgba(0, 0, 0, 0.3);
+
+}
+
+div.Card1 h4{
+	text-align:initial;
+	font-family: calibri;
+	font-size:0.8em;
+	text-transform:uppercase;
+	color:white;
+}
+
+div.Card1 hr{
+	border:1px solid rgba(0,0, 0, 0.2);
+}
+
+div.Card1 button{
+	text-align:center;
+	color:#20BA6F ;
+	font-weight:bold;
+	text-transform:uppercase;
+	border:none;
+	margin-top:20px;
+	border-radius:20px;
+	width:270px;
+	height:40px;
+	cursor:pointer;
+	transition: 0.5s ease;
+
+}
+
+button:hover{
+	transform:scale(1.1);
+	box-shadow:2px 2px rgba(0, 0, 0, 0.3);
+}
+
+div.Card2 h4 {
+	text-transform:uppercase;
+	text-align:center;
+	font-family: calibri;
+	color:white;
+
+}
+
+div.Card2 p {
+	font-weight:bold;
+	margin:0 auto;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	text-transform:uppercase;
+	text-align:center;
+	font-family: calibri;
+	color:green;
+	background-color:white;
+	width:100px;
+	height:100px;
+	border-radius:50px;
+	box-shadow:2px 5px rgba(0, 0, 0, 0.3);
+
+}
+
+div.Card2 h4{
+	text-align:initial;
+	font-family: calibri;
+	font-size:0.8em;
+	text-transform:uppercase;
+	color:white;
+}
+
+div.Card2 hr{
+	border:1px solid rgba(0,0, 0, 0.2);
+}
+
+div.Card2 button{
+	text-align:center;
+	color:#20BA6F ;
+	font-weight:bold;
+	text-transform:uppercase;
+	border:none;
+	margin-top:20px;
+	border-radius:20px;
+	width:270px;
+	height:40px;
+	cursor:pointer;
+	transition: 0.5s ease;
+
+}
+
+
+div.Card3 h4 {
+	text-transform:uppercase;
+	text-align:center;
+	font-family: calibri;
+	color:white;
+
+}
+
+div.Card3 p {
+	font-weight:bold;
+	margin:0 auto;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	text-transform:uppercase;
+	text-align:center;
+	font-family: calibri;
+	color:green;
+	background-color:white;
+	width:100px;
+	height:100px;
+	border-radius:50px;
+	box-shadow:2px 5px rgba(0, 0, 0, 0.3);
+
+}
+
+div.Card3 h4{
+	text-align:initial;
+	font-family: calibri;
+	font-size:0.8em;
+	text-transform:uppercase;
+	color:white;
+}
+
+div.Card3 hr{
+	border:1px solid rgba(0,0, 0, 0.2);
+}
+
+div.Card3 button{
+	text-align:center;
+	color:#20BA6F ;
+	font-weight:bold;
+	text-transform:uppercase;
+	border:none;
+	margin-top:20px;
+	border-radius:20px;
+	width:270px;
+	height:40px;
+	cursor:pointer;
+	transition: 0.5s ease;
+
+}
+
+
+.wave {
+	position:absolute;
+	bottom:0;
+	left:0;
+	right:0;
+}
+
+h1, h3 {
+	text-align:center;
+	font-family:arial;
+	text-transform:uppercase;
+	color:#20BA6F;
+}
+
+footer {
+	width:100%;
+	height:40px;
+	background-color:#20BA6F;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+
+footer h4{
+	text-align:center;
+	font-family:arial;
+	color:white;
+	text-transform:none;
+}
+
+/** frase **/
+
+		#frase{
+			width:950px;
+			display:flex;
+			justify-content:center;
+			align-items:center;
+		}
+
+		p[class="frase_ani"]{
+			padding:5px;
+			font-size: 2.5em;
+			font-family: calibri;
+			text-align:center;
+			border-right: 5px solid black;
+			white-space: nowrap;
+			overflow:hidden;
+			color:#20BA6F;
+			border-radius: 25px;
+			background-color:rgba(0, 0,0, 0.6);
+		
+		}
+
+		.frase_ani{
+			animation: typing 5s 1s normal, cursor 400ms infinite normal;
+
+		}
+
+		@keyframes typing {
+
+			from{
+				width: 0;
+
+			}
+
+			to{
+				width: 100%;
+			}
+
+		}
+
+		@keyframes cursor{
+			from{
+				border-right-color: black;
+			}
+
+			to{
+				border-right-color: transparent;
+			}
+		}
+hr{
+	border:1px solid black;
+}
+
+iframe{
+	width:450px;
+	height:300px;
+	padding:30px;
+}
+.centralização{
+	height:100%;
+	width:100%;
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+#formulario-cadastro{
+			padding-right:30px;
+			padding-left:30px;
+			display:flex;
+			justify-content:center;
+			align-items:center;
+			flex-direction:column;
+			flex-wrap: nowrap;
+			border-radius:5px;
+			background: #FFF;
+			width: 30%;
+			height: 530px;
+			box-shadow: 0px 12px 8px rgba(0, 0,0, 0.7);
+			text-align: center;
+		}
+		div#formulario-cadastro label{
+			padding-right:10px;
+			font-family: helvetica;
+			color:grey;
+		}
+
+		div#formulario-cadastro p{
+			font-family: helvetica;
+			color:grey;
+			padding-bottom:10px;
+		}
+
+		div#formulario-cadastro p a{
+			font-family: helvetica;
+			color:grey;
+			padding:5px;
+			text-decoration:none;
+
+		}
+
+		div#formulario-cadastro p a:hover{
+			color:#20BA6F;
+		}
+		#formulario-entrar{
+			padding-right:30px;
+			padding-left:30px;
+			display:flex;
+			justify-content:center;
+			align-items:center;
+			flex-direction:column;
+			border-radius:5px;
+			background: #FFF;
+			width: 30%;
+			height: 500px;
+			box-shadow: 0px 12px 8px rgba(0, 0,0, 0.7);
+			text-align: center;
+		}
+
+		div#formulario-entrar p{
+			padding:0px 60px 0px 60px;
+			font-family: helvetica;
+			color:grey;
+		}
+
+		div#formulario-entrar p a{
+			font-family: helvetica;
+			color:grey;
+			padding:5px;
+			text-decoration:none;
+
+		}
+
+		div#formulario-entrar p a:hover{
+			color:#20BA6F;
+		}
+		
+		.senhacad{
+			background:#FFF;
+			margin-top: 3%;
+			width:45%;
+			height: 10%;
+			border: none;
+			border-bottom: 1px solid gray;
+		}
+		.botoes{
+			background:#20BA6F;
+			width: 100%;
+			border: 0px;
+			height: 30px;
+			margin-top:10px;
+			font-family: helvetica;
+			cursor:pointer;
+
+		}
+		.caixas{
+			margin-top: 5%;
+			width: 100%;
+			height: 35px;
+			background:#FFF;
+			border: none;
+			border-bottom: 1px solid gray;
+		}
+		.caixa-selecao{
+			margin-top: 5%;
+			width: 40%;
+			height: 35px;
+			background:#FFF;
+			border: none;
+			border-bottom: 1px solid gray;
+		}
+

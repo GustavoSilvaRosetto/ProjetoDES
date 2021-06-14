@@ -1,0 +1,818 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"script"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"pa",
+				"padding-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"h",
+				"h1"
+			],
+			[
+				"n",
+				"initial"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"pad",
+				"padding-right"
+			],
+			[
+				"f",
+				"formulario-cadastro"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"styl",
+				"font-style"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"spa",
+				"space-around"
+			],
+			[
+				"sp",
+				"space-around"
+			],
+			[
+				"fl",
+				"flex-direction"
+			],
+			[
+				"in",
+				"inline-flex"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"bow",
+				"box-shadow"
+			],
+			[
+				"i",
+				"initial"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"gre",
+				"grey"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"m",
+				"margin-top"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"bord",
+				"border"
+			],
+			[
+				"C",
+				"Card1"
+			],
+			[
+				"fras",
+				"frase_ani"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"trans",
+				"transition"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"ovw",
+				"overflow"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"al",
+				"align-items"
+			],
+			[
+				"ju",
+				"justify-all"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"alin",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"li",
+				"li\tTag"
+			],
+			[
+				"co",
+				"cover\tobject-fit"
+			],
+			[
+				"aling",
+				"align-self\tproperty"
+			],
+			[
+				"inl",
+				"inline-flex\tdisplay"
+			],
+			[
+				"wa",
+				"wrap-reverse\tflex-wrap"
+			],
+			[
+				"a",
+				"align-items\tproperty"
+			],
+			[
+				"it",
+				"align-items\tproperty"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"tra",
+				"transform\tproperty"
+			],
+			[
+				"anim",
+				"animation-delay\tproperty"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"an",
+				"animation-delay\tproperty"
+			],
+			[
+				"animation-d",
+				"animation-duration\tproperty"
+			],
+			[
+				"flea",
+				"flex-wrap\tproperty"
+			],
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"paddin",
+				"padding-top\tproperty"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"margi",
+				"margin-bottom\tproperty"
+			],
+			[
+				"marg",
+				"margin-bottom\tproperty"
+			],
+			[
+				"list",
+				"list-style\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"st",
+				"strong\tTag"
+			],
+			[
+				"se",
+				"section\tTag"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"lisyt",
+				"list-style\tproperty"
+			],
+			[
+				"row",
+				"row-reverse\tflex-direction"
+			],
+			[
+				"flex-r",
+				"flex-direction\tproperty"
+			],
+			[
+				"aut",
+				"autofocus\tAttr"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"tras",
+				"transition\tproperty"
+			],
+			[
+				"t",
+				"top\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"u",
+				"ul\tTag"
+			],
+			[
+				"left",
+				"left\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"con",
+				"conteudo"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"marin",
+				"margin-left\tproperty"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"brasil",
+				"Brasil"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"UR",
+				"url"
+			],
+			[
+				"border-co",
+				"border-collapse\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"aba",
+				"aba-esquerda2"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"lis",
+				"list-style\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"style",
+				"list-style\tproperty"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"cont",
+				"conteudo-zero"
+			],
+			[
+				"all",
+				"align-self\tproperty"
+			],
+			[
+				"U",
+				"url()\tbackground-image"
+			],
+			[
+				"rea",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"borderc",
+				"border-color\tproperty"
+			],
+			[
+				"prod",
+				"Produto"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"de",
+				"desconto3"
+			],
+			[
+				"M",
+				"Mesdenasc"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"desc",
+				"desconto2"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"border-ra",
+				"border-radius\tproperty"
+			],
+			[
+				"N",
+				"Nasc"
+			],
+			[
+				"g",
+				"Genero"
+			],
+			[
+				"Nota",
+				"Nota4"
+			],
+			[
+				"No",
+				"Nota1"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"per",
+				"personagem"
+			],
+			[
+				"cl",
+				"clear\tproperty"
+			],
+			[
+				"tran",
+				"transition-duration\tproperty"
+			],
+			[
+				"bak",
+				"background-color\tproperty"
+			],
+			[
+				"obj",
+				"object-fit\tproperty"
+			],
+			[
+				"widh",
+				"width\tproperty"
+			],
+			[
+				"shado",
+				"box-shadow\tproperty"
+			],
+			[
+				"ani",
+				"animation\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 175.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/gusta/Downloads/Projeto Des (1)/Projeto Des/css/estilo.css",
+		"/C/Users/gusta/Downloads/Projeto Des (1)/Projeto Des/formulario-cadastrar.html",
+		"/C/Users/gusta/Downloads/Projeto Des (1)/Projeto Des/formulario-entrar.html",
+		"/C/Users/gusta/Downloads/Projeto Des (1)/Projeto Des/index.html",
+		"/C/Users/gusta/Downloads/Projeto Des (1)/Projeto Des/js/app.js",
+		"/C/Users/gusta/Downloads/Projeto Des (3)/Projeto Des/index.html",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DRa16396.28831/Projeto Des/js/app.js",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Projeto Des (3)/Projeto Des/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Projeto Des (3)/Projeto Des/formulario-entrar.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Projeto Des (3)/Projeto Des/css/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/interface/estilo.css",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DRa9624.37033/Projeto Des (1)/Projeto Des/css/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/interface/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Projeto Des2.0/Projeto Des/index.html",
+		"/C/Users/gusta/Downloads/Projeto Des (1)/Projeto Des/img/imagem02.jpeg",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Projeto Des2.0/Projeto Des/css/estilo.css",
+		"/C/Users/gusta/Downloads/Projeto Des2.0/Projeto Des/index.html",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DRa17544.2257/Projeto Des/index.html",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DRa17544.3820/Projeto Des/css/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Projeto Des/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Projeto Des/css/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Paralax/estilo.css",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DRa12120.26792/Projeto Des/css/estilo.css",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DRa12120.37136/Projeto Des/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Paralax/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Parallax 2.0/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Projeto Demon Slayer/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Parallax 2.0/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/Museu-Nacional/css/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Projeto Demon Slayer/index.html",
+		"/C/Users/gusta/Downloads/Projeto_Shoppinho (1)/Projeto_Shoppinho/CSS/estilo.css",
+		"/C/Users/gusta/Downloads/Projeto_Shoppinho (1)/Projeto_Shoppinho/HTML/index.html",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DIa1460.19895/Cruprod.php",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DIa1460.17799/conexao.php",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DIa10992.13716/Produto.php",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DIa10992.12843/conexao.php",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/formulario.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Formulario.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/JapaTatto/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/teste/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/teste/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Tecblog/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/Transições.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/Museu-Nacional/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/html5/novas-tags-html.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Formulario/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/aula.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Formulario/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Noticiais cidade/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Chalé Hotel/css/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Bootstrap/bootstrap4/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/teste/menu-lateral2.0/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/teste/menu-lateral2.0/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/teste/imagem.png",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Site 2.0/base2.0.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/55-arquivos-aula-criando-barra-navegacao-vertical/55. criando barra de navegação vertical/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/55-arquivos-aula-criando-barra-navegacao-vertical/55. criando barra de navegação vertical/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/Museu-Nacional/css/normalize.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/Museu-Nacional/js/html5shiv.js",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/html5/flexbox.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/html5/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/html5/novas-tag-input.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/html5/js/html5shiv.js",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/novas-tags-html.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/css/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/Animação.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/border-radius-boxsizing.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS e Recursos especiais/css/normalize.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/JapaTatto/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/arquivos-aula-usando-fontes-customizadas/fontes/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/menu-horizontal/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/menu-horizontal/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/arquivos-aula-usando-fontes-customizadas/fontes/BringHeart.woff",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Chalé Hotel/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Noticiais cidade/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Chalé Hotel/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Noticiais cidade/Fotos.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Noticiais cidade/nova-lesgilação.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Noticiais cidade/imagens/mundo.jpg",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/imagem redonda/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/imagem redonda/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/tabela.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/style.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Projeto-Pencil/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/layout-liquido.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/layout-fixo.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Projeto-Pencil/index.html",
+		"/C/wamp/www/Restaurante/index.html",
+		"/C/wamp/www/Restaurante/style.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/abas/imagens/aba-direita2.png",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/abas/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/abas/Serviços.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/menu-horizontal/Serviços.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/menu-horizontal/sobre.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/menu-lateral/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/Serviços.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/CSS3 INTERMEDIARIO/CSS/menu-lateral.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Clovis de Lucca/Clovis/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Tecblog/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Clovis de Lucca/Clovis/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Clovis de Lucca/Clovis/Clovisnovo.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Projeto CSS intermediario/sobrepondo-elementos.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Solugubi/conteudo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Solugubi/index.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Projeto CSS intermediario/Elementos-flutuantes-na-pratica.html",
+		"/C/Users/gusta/AppData/Local/Temp/Rar$DIa3328.44524/Tabuada.php",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Tecblog/tecblog/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Projeto CSS intermediario/links.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Projeto CSS intermediario/posicionamentos.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Projeto CSS intermediario/elementos-inline-block.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Projeto CSS intermediario/elementos-flutuantes.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Projeto CSS intermediario/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/Projeto CSS intermediario/modelo-caixa.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/ana-bella/pagina1.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/ana-bella/biografia.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/ana-bella/contato.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/ana-bella/campanhas.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/ana-bella/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Aulas de CSS/9-arquivos-da-aula-estilos-textos/bordas.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Aulas de CSS/6-arquivos-da-aula-bordas/bordas.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Clovis de Lucca/Clovis/clovis.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/estilo.css",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/pagina1.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/cor-imagem-fundo.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/pagina2.html",
+		"/C/Users/gusta/OneDrive/Área de Trabalho/Curso Udemy/Primeiro Projeto CSS/tamanhos-texto.html"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\gusta\\OneDrive\\Área de Trabalho\\Curso Udemy\\teste\\estilo.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Cadastrar</title>
+
+	<link rel="stylesheet" type="text/css" href="estilo.css">
+
+	<meta charset="utf-8">
+
+	<script type="text/javascript" src="confirmacao.js"></script>
+
+</head>
+
+<body>
+
+	
+<div class="caixa1"> <!-- Começo do Menu --> 
+
+		
+		<header>
+		<section>
+		<nav>
+			<div id="logo"><a href="index.html"><img width="150" src="E-tech.png"></a></div>
+			<ul>
+				<li><a href="index.html">Home</a></li><p style="color:grey;">|</p>
+				<li><a href="">Planos</a></li><p style="color:grey;">|</p>
+				<li><a href="">Quem Somos</a></li><p style="color:grey;">|</p>
+				<li><a href="">Mensalidade atrasada?</a></li><p style="color:grey;">|</p>
+				
+				<li><a class="entrar" href="formulario-entrar.html">Entrar</a></li></span><p style="color:grey;">|</p>
+				<li><a href="">Cadastrar</a></li>
+				
+			</ul>
+
+
+		</nav>
+		</section>
+		</header>
+
+	
+
+		<div class="centralização">
+
+		<div id="formulario-cadastro">
+
+								
+				<form id="formcad" method="GET" action="cadastro.php">
+
+					<h1>Register</h1>
+
+					<input type="text" name="nome" class="caixas" placeholder="  Nome completo"><br>
+
+					<input type="number" name="cpf" class="caixas" placeholder="  CPF no modelo 00000000000"><br>
+
+					<input type="text" name="telefone" class="caixas" placeholder="  Telefone no modelo (00) 000000000"><br>
+
+					<input type="e-mail" name="email" class="caixas" placeholder="  E-mail"><br>
+
+					<input type="password" name="senha" id="Senha" class="senhacad" placeholder="  Escolha uma senha">
+
+					<input type="password" name="senhaconf" id="Confsenha" class="senhacad" onblur="Comparar()" placeholder="  Confirme a senha"><br>
+
+					<label>Selecione o plano</label>
+					<select class="caixa-selecao">
+
+						<option selected disabled>Selecione</option>
+						<option id="lista" value="1">Mensal</option>
+						<option id="lista" value="2">Trimestral</option>
+						<option id="lista" value="3">Semestral</option>
+
+					</select><br>
+
+					<input type="submit" name="botao" value="Cadastrar" class="botoes"><br><br>
+
+					<p>Ja possui cadastro?<a href="formulario-entrar.html">Entrar</a></p>
+
+				</form>
+
+
+			</div>
+
+			</div>
+
+</div>
+
+
+
+
+
+
+</body>
+</html>
